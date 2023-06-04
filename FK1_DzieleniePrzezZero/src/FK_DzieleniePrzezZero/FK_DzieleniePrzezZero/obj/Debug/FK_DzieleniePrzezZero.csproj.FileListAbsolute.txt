@@ -1,0 +1,16 @@
+C:\Users\luqasz\source\repos\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\bin\Debug\FK_DzieleniePrzezZero.exe.config
+C:\Users\luqasz\source\repos\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\bin\Debug\FK_DzieleniePrzezZero.exe
+C:\Users\luqasz\source\repos\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\bin\Debug\FK_DzieleniePrzezZero.pdb
+C:\Users\luqasz\source\repos\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.csproj.AssemblyReference.cache
+C:\Users\luqasz\source\repos\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.csproj.SuggestedBindingRedirects.cache
+C:\Users\luqasz\source\repos\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.csproj.CoreCompileInputs.cache
+C:\Users\luqasz\source\repos\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.exe
+C:\Users\luqasz\source\repos\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.pdb
+D:\Carpe Tonus\GitHub Repositories\2022-Q2-2_C-sharp_oop-projects_w [!!!]\FK1_DzieleniePrzezZero\src\2023-06-03\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\bin\Debug\FK_DzieleniePrzezZero.exe.config
+D:\Carpe Tonus\GitHub Repositories\2022-Q2-2_C-sharp_oop-projects_w [!!!]\FK1_DzieleniePrzezZero\src\2023-06-03\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\bin\Debug\FK_DzieleniePrzezZero.exe
+D:\Carpe Tonus\GitHub Repositories\2022-Q2-2_C-sharp_oop-projects_w [!!!]\FK1_DzieleniePrzezZero\src\2023-06-03\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\bin\Debug\FK_DzieleniePrzezZero.pdb
+D:\Carpe Tonus\GitHub Repositories\2022-Q2-2_C-sharp_oop-projects_w [!!!]\FK1_DzieleniePrzezZero\src\2023-06-03\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.csproj.AssemblyReference.cache
+D:\Carpe Tonus\GitHub Repositories\2022-Q2-2_C-sharp_oop-projects_w [!!!]\FK1_DzieleniePrzezZero\src\2023-06-03\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.csproj.SuggestedBindingRedirects.cache
+D:\Carpe Tonus\GitHub Repositories\2022-Q2-2_C-sharp_oop-projects_w [!!!]\FK1_DzieleniePrzezZero\src\2023-06-03\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.csproj.CoreCompileInputs.cache
+D:\Carpe Tonus\GitHub Repositories\2022-Q2-2_C-sharp_oop-projects_w [!!!]\FK1_DzieleniePrzezZero\src\2023-06-03\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.exe
+D:\Carpe Tonus\GitHub Repositories\2022-Q2-2_C-sharp_oop-projects_w [!!!]\FK1_DzieleniePrzezZero\src\2023-06-03\FK_DzieleniePrzezZero\FK_DzieleniePrzezZero\obj\Debug\FK_DzieleniePrzezZero.pdb
